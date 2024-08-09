@@ -1,14 +1,14 @@
-• Introduction
+> Introduction
 
-Download the files from the github and extract them to your desktop or where-ever you choose.
+• Download the files from the github and extract them to your desktop or where-ever you choose.
 
-Run BPLogger and it will run a GUI to build your stub.
+• Run BPLogger and it will run a GUI to build your stub.
 
-Can be used via discord webhook.
+• Can be used via discord webhook.
 
-
+MORE FEATURES AVAILABLE ON https://t.me/BPLogger
 ================================================================================
-
+MORE FEATURES AVAILABLE ON https://t.me/BPLogger
 
 
 > Features 
