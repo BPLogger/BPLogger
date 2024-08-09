@@ -1,8 +1,11 @@
 Introduction
-BPLogger is a POC made to demonstrate how a simple Python program is able to steal the keyboard activity from someone while passing most of the antivirus protections.
 
 
-How to run it?
+
+> [+] BPLogger is a POC made to demonstrate how a simple Python program is able to steal the keyboard activity from someone while passing most of the antivirus protections.
+
+
+How do i run it?
 
 
 Features
