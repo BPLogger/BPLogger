@@ -8,7 +8,7 @@
 
 MORE FEATURES AVAILABLE ON https://t.me/BPLogger
 ================================================================================
-![image](https://github.com/user-attachments/assets/ad4abeda-a0f4-4677-9d13-95ce509a752f)
+![image](https://github.com/user-attachments/assets/f9056a9c-c147-4473-8cdd-295ed4cc96c9)
 
 
 > Features 
