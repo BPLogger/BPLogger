@@ -8,7 +8,7 @@
 
 MORE FEATURES AVAILABLE ON https://t.me/BPLogger
 ================================================================================
-MORE FEATURES AVAILABLE ON https://t.me/BPLogger
+
 
 
 > Features 
