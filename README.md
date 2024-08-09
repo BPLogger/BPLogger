@@ -13,23 +13,23 @@ Can be used via discord webhook.
 
 • Features ( more on https://t.me/BPLogger )
 
-Crypto Clipper
+• Crypto Clipper
 
-Crypto Wallet Grabber
+• Crypto Wallet Grabber
 
-Game Session Stealer (Roblox, Minecraft, Steam ETC)
+• Game Session Stealer (Roblox, Minecraft, Steam ETC)
 
-FUD (fully undetectable) 
+• FUD (fully undetectable) 
 
-Obfuscated
+• Obfuscated
 
-Chrome Password Stealer
+• Chrome Password Stealer
 
-Discord Token Logger
+• Discord Token Logger
 
-Send data to your CS2 Discord Webhook
+• Send data to your CS2 Discord Webhook
 
-Once the victim executes the payload, it will inject itself into discord, browsers, wallets, apps, etc and find information to grab.
+• Once the victim executes the payload, it will inject itself into discord, browsers, wallets, apps, etc and find information to grab.
 
 
 
