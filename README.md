@@ -12,6 +12,8 @@ Can be used via discord webhook.
 
 
 > Features
+
+
 FUD (fully undetectable)
 Encrypting the data
 Sending the data to your CS2 Discord Webhook
