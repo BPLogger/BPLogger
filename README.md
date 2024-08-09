@@ -12,6 +12,7 @@ Can be used via discord webhook.
 
 
 • Features
+
 FUD (fully undetectable)
 Obfuscated
 Chrome Password Stealer
