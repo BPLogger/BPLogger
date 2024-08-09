@@ -11,7 +11,7 @@ Can be used via discord webhook.
 
 
 
-• Features ( more on https://t.me/BPLogger )
+> Features ( more on https://t.me/BPLogger )
 
 • Crypto Clipper
 
