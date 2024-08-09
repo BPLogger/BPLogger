@@ -13,11 +13,11 @@ Can be used via discord webhook.
 
 • Features
 
-FUD (fully undetectable)
-Obfuscated
-Chrome Password Stealer
-Sending the data to your CS2 Discord Webhook
-Once the victim executes the payload, it will inject itself into discord, browsers, wallets, apps, etc and find information to grab.
+FUD (fully undetectable) 
+ Obfuscated
+ Chrome Password Stealer
+ Sending the data to your CS2 Discord Webhook
+ Once the victim executes the payload, it will inject itself into discord, browsers, wallets, apps, etc and find information to grab.
 
 
 
