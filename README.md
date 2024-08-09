@@ -1,6 +1,6 @@
 • Introduction
 
-Download the files from the github and extract them to your desktop or wherever you choose.
+Download the files from the github and extract them to your desktop or where-ever you choose.
 
 Run BPLogger and it will run a GUI to build your stub.
 
