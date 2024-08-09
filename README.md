@@ -8,7 +8,6 @@
 
 MORE FEATURES AVAILABLE ON https://t.me/BPLogger
 ================================================================================
-![image](https://github.com/user-attachments/assets/f9056a9c-c147-4473-8cdd-295ed4cc96c9)
 
 
 > Features 
@@ -33,3 +32,4 @@ MORE FEATURES AVAILABLE ON https://t.me/BPLogger
 
 
 
+![image](https://github.com/user-attachments/assets/7a4d569d-96ae-4140-9837-3c9854bb69c8)
