@@ -6,10 +6,11 @@ Introduction
  
 
 > [+] How do i run it?
-Download the files from the github and extract them to your desktop or wherever you choose.
-Run BPLogger and it will run a GUI to build your stub.
-Can be used via discord webhook.
+• Download the files from the github and extract them to your desktop or wherever you choose.
 
+Run BPLogger and it will run a GUI to build your stub.
+
+Can be used via discord webhook.
 
 • Features ( more on https://t.me/BPLogger )
 
